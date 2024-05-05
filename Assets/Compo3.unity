@@ -1913,7 +1913,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed4dced5d27ca5c419df79edd59223d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  amplitude: 0.6
+  amplitude: 1
   frequency: 0.05
   phaseAmt: 3
   speed: 0
