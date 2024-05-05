@@ -2299,7 +2299,7 @@ GameObject:
   - component: {fileID: 1911287590}
   - component: {fileID: 1911287589}
   m_Layer: 0
-  m_Name: Space
+  m_Name: Space CubeMap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
