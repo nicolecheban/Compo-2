@@ -28,6 +28,7 @@ public class StarSeq : MonoBehaviour
     public Transform obj;
     private Vector3 startPosition;
     private Vector3 endPosition;
+    public float duration = 1.0f;
 
     void Start()
     {
@@ -87,7 +88,7 @@ public class StarSeq : MonoBehaviour
     }
     IEnumerator AnimateObject()
 {
-    float duration = 1.0f; // Duration of the animation in seconds
+     // Duration of the animation in seconds
     float elapsedTime = 0;
 
     while (elapsedTime < duration)
